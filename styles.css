@@ -64,7 +64,9 @@ padding: 0;
 }
 
 .cursief{
-  margin: 0 0 10px 10px;
+  margin: 0 0 5px 5px;
+  font-size: 1rem;
+  line-height: 1.2;
   font-style: italic;
 }
 
@@ -80,6 +82,7 @@ padding: 0;
 #lijstje{
   margin: 1px 1px 1px 2px;
   font-family: "Montserrat-Black";
+  font-style: italic;
   font-size: 1rem;
   line-height: 1.2;
 }
